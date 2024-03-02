@@ -1,0 +1,17 @@
+.container{
+    display:grid;
+    height: 50rem;
+    width:70rem;
+    background-color:#e9eaee;
+    border-radius:10px;
+    margin:100px 100px;
+    gap:20px;
+}
+
+.cards{
+    display:inline-block;
+    height:400px;
+    width:300px;
+    background-color: white;
+    border:2px solid black;
+}
